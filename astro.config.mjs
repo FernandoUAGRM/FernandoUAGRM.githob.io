@@ -3,9 +3,9 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://FernandoUAGRM.githob.io',
+  output: "static",   // IMPORTANTE para GitHub Pages
   integrations: [
     mdx(),
     sitemap(),
