@@ -1,18 +1,9 @@
 export const studies = [
   {
-    title: "Técnico en desarrollo de software",
-    corporation: "SENA - Montería (Córdoba) ",
-    date: "02/2019 – 12/2019",
-  },
-  {
-    title: "Desarrollador Front-end React Js",
-    corporation: "Alura Latam - Remoto",
-    date: "04/2023 – 09/2023",
-  },
-  {
-    title: "Curso profesional de React Js",
-    corporation: "Código facilito - Remoto",
-    date: "04/2023 – 04/2023",
+    
+  title: "Ingeniería en Sistemas (3er año) - Enfoque en Innovación",
+  corporation: "UAGRM - Universidad Autónoma Gabriel René Moreno",
+  date: "2022 – Actualidad",
   },
 ];
 
